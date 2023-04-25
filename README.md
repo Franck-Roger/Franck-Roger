@@ -1,13 +1,10 @@
-# Hi there 👋
+# Hello there 👋
 
-<!--
-**Franck-Roger/Franck-Roger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hi, I'm Franck ROGER
+## I'm Franck ROGER
 
 - A symfony Back-end developer
 - Personal website [www.dataeko.io](https://www.dataeko.io) - site under construction
-- I’m currently open for an Intern or a new job opportunity
+- I’m currently open for a new job opportunity
 
 ### Skills
 
